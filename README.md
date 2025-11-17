@@ -6,7 +6,7 @@ The goal of this project is to understand how different factors influence home p
 
 - Home size
 
-- School area
+- School rating
 
 - Built year
 
@@ -35,7 +35,7 @@ Price is predicted using one independent variable at a time, including:
 
 House size
 
-School area
+School rating
 
 Built year
 
